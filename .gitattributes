@@ -5,3 +5,4 @@
 *.lock export-ignore
 *.cache export-ignore
 *.log export-ignore
+.git* export-ignore

@@ -23,7 +23,8 @@
       "main.php",
       "*.lock",
       "*.cache",
-      "*.log"
+      "*.log",
+      ".git*"
     ]
   },
   "require": {
