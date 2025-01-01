@@ -1,0 +1,7 @@
+/tests/ export-ignore
+/phpunit.xml export-ignore
+/readme.md export-ignore
+/main.php export-ignore
+*.lock export-ignore
+*.cache export-ignore
+*.log export-ignore
