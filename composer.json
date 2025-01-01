@@ -1,7 +1,7 @@
 {
   "name": "k0ff/hello",
   "version": "0.1.0",
-  "type": "project",
+  "type": "library",
   "autoload": {
     "psr-4": {
       "K0ff\\Hello\\": "src/"
