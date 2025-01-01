@@ -19,6 +19,7 @@
     "exclude": [
       "tests/",
       "phpunit.xml",
+      "readme.md",
       "main.php",
       "*.lock",
       "*.cache",

@@ -1,0 +1,1 @@
+This is my repository for my PHP composer's fun - I'm experimenting and may be there some weird stuff here; if I've made it public it's most likely so I can use it in packagist.org or it's easy to show them to someone; have nice fun;
